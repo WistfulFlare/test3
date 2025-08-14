@@ -2,7 +2,7 @@
 layout: default
 title: Chapter 2 - The Plot Thickens
 parent: Home
-nav_order: 3
+nav_order: 2
 ---
 
 ## Chapter 2
